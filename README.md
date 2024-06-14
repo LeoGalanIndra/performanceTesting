@@ -10,11 +10,10 @@
 
 ## Contenido: 
 
-        - Sesion 1: Configurando JMETER
-        - Sesion 2: Pruebas de rendimiento para un REST-API - Metodo HTTP GET 
-        - Sesion 3: Pruebas de rendimiento para un REST-API - Metodo HTTP POST
-        - Sesion 4: Pruebas de rendimiento para un REST-API - Metodo HTTP PUT
-        - Sesion 5: Pruebas de rendimiento para una pagina de Internet 
+        - Sesion 1: Configurando JMETER.
+        - Sesion 2: Pruebas de rendimiento para un REST-API - Metodo HTTP GET. 
+        - Sesion 3: Pruebas de rendimiento para un REST-API - Metodo HTTP POST.
+        - Sesion 4: Pruebas de rendimiento para un portal web. 
 
 
 ## Recursos
